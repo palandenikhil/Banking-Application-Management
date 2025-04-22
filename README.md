@@ -1,7 +1,9 @@
 # Banking-Application-Management
 
 💻 Banking Application Management | Minor Project
+
 Technologies Used: Core Java, JDBC, MySQL
+
 Concepts Applied: Object-Oriented Programming (OOP), Exception Handling, Transaction Management
 
 Developed a console-based banking application supporting account creation, balance inquiries, fund transfers, deposits, and withdrawals.
